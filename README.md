@@ -12,7 +12,5 @@ Hi there 👋 I'm a Data Analyst with 3.5+ years of experience turning large-sca
 ![](https://streak-stats.demolab.com/?user=mishika-garg&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mishika-garg&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mishika-garg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
