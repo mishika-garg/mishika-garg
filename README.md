@@ -1,5 +1,5 @@
 # About Me:
-Hi there 👋 I'm a Data Analyst with 3.5+ years of experience turning large-scale data into actionable business insights.  <br>Problem-Solving mindset, Data Analyst by passion. I build data pipelines, design real-time analytics systems, and develop dashboards that drive decision-making.  <br><br>Experienced in SQL, Python, Tableau, Power BI, and Machine Learning with a strong focus on product analytics, statistical modeling, and scalable data solutions.
+Hi there 👋 I'm a Data Analyst with 3+ years of experience turning large-scale data into actionable business insights.  <br>Problem-Solving mindset, Data Analyst by passion. I build data pipelines, design real-time analytics systems, and develop dashboards that drive decision-making.  <br><br>Experienced in SQL, Python, Tableau, Power BI, and Machine Learning with a strong focus on product analytics, statistical modeling, and scalable data solutions.
 
 
 ## 🌐 Socials:
